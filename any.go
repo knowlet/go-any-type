@@ -1,3 +1,3 @@
 package any
 
-type any interface{}
+type Any interface{}
